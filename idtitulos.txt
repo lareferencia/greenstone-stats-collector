@@ -1,0 +1,45 @@
+pm.360|Jpm360|El conocimiento como práctica
+pm.1752|Jpm1752|Quién de nosotros escribirá el Facundo?
+pm.530|Jpm530|Romancero tradicional argentino
+pm.13|Jpm13|Aportes para un nuevo currículum en psicología en la Universidad Nacional de La Plata
+pm.1201|Jpm1201|La crisis ganadera
+pm.356|Jpm356|Introducción a la estética
+pm.126|Jpm126|Apuntes para una introducción al estudio de la educación física
+pm.1078|Jpm1078|La escritura en la alfabetización inicial
+pm.758|Jpm758|La lectura en la alfabetización inicial
+pm.1082|Jpm1082|De los argumentos trascendentales a la hermenéutica trascendental
+pm.646|Jpm646|The Politics of privatisation and trade union mobilisation
+pm.1783|Jpm1783|Jóvenes, prácticas corporales urbanas y tiempo libre
+pm.16|Jpm16|Contribución a la bibliografía de José Mármol
+pm.958|Jpm958|Frontera ganadera y guerra con el indio
+pm.363|Jpm363|Esbozos para una epistemología de los sujetos y movimientos sociales
+pm.177|Jpm177|El método hipotético deductivo y la lógica
+pm.179|Jpm179|Textos especializados
+pm.447|Jpm447|Bases para un proyecto institucional 1998-2001
+pm.957|Jpm957|Los autonomistas del 70
+pm.960|Jpm960|Aproximación al estudio de los precios y salarios en Buenos Aires desde fines del siglo XVIII hasta 1860
+pm.181|Jpm181|Políticas de modernización universitaria y cambio institucional
+pm.1804|Jpm1804|Las mujeres en los discursos militares (1976-1983)
+pm.185|Jpm185|Romances
+pm.186|Jpm186|Temas de historia argentina II
+pm.187|Jpm187|Literatura policial en la Argentina
+pm.188|Jpm188|Consumo alimentario en sectores pobres urbanos del Gran La Plata
+pm.189|Jpm189|La búsqueda por materia y la descripción de contenido en el catálogo en línea
+ev.15290|Jev15290|Una mirada al complejo mundo de los mercados mayoristas en Argentina
+ev.15291|Jev15291|Estrategias que favorecen las primeras prácticas en el aula de las y los estudiantes del profesorado en matemática
+ev.15292|Jev15292|Relación con el saber matemático de alumnos de una escuela pública
+ev.15293|Jev15293|Aportes para la articulación en matemática entre los niveles primario y secundario
+ev.15294|Jev15294|La mirada de un grupo de matemáticos sobre su práctica docente en el nivel universitario
+ev.15295|Jev15295|Las profesionales del nacimiento
+ev.15296|Jev15296|Acoso sexual en la esfera pública
+ev.15297|Jev15297|Reflexiones sobre el papel de la ira, entre Colette Guillaumin y Audre Lorde
+ev.15298|Jev15298|"El reality de la inseguridad"
+ev.15299|Jev15299|Escenas de la vida cotidiana
+ev.15300|Jev15300|"Queremos que nos respeten. Somos vigilantes. Somos seres humanos como todos" 
+ev.15301|Jev15301|Proceso de construcción de una secuencia didáctica por alumnas/os que cursan por primera vez una Didáctica específica de la Matemática
+ev.15302|Jev15302|Registros de representación semiótica en el aprendizaje de la derivada en un curso de nivel universitario
+ev.15303|Jev15303|Contribución de los sistemas participativos de garantía a la soberanía alimentaria
+ev.15304|Jev15304|Las empresas recuperadas del sector industrial en el neoliberalismo de la Alianza Cambiemos
+ev.15305|Jev15305|La extensión universitaria y el desarrollo social y comunitario de la Economía Popular, Social y Solidaria
+ev.15306|Jev15306|Para una comparatística disidente
+ev.15307|Jev15307|Vidas queer y dictadura

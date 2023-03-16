@@ -1,0 +1,43 @@
+2023-03-08 15:18:48,571 - MATOMO_SRND_UPDATE - INFO - iniciando proceso de actualizacion del motomo srnd
+2023-03-08 15:18:48,632 - MATOMO_SRND_UPDATE - INFO - Iniciando la descarga del archivo de IDs y Titulos
+2023-03-08 15:18:48,632 - MATOMO_SRND_UPDATE - INFO - Descarga completa.
+2023-03-08 15:18:48,663 - MATOMO_SRND_UPDATE - INFO - Conectado con la base eventos.
+2023-03-08 15:18:48,663 - MATOMO_SRND_UPDATE - INFO - Ya se cargaron los IDS a procesar
+2023-03-08 15:18:48,719 - MATOMO_SRND_UPDATE - INFO - Dia a procesar 2023-01-04 00:00:00
+2023-03-08 15:39:30,256 - MATOMO_SRND_UPDATE - INFO - iniciando proceso de actualizacion del motomo srnd
+2023-03-08 15:39:30,332 - MATOMO_SRND_UPDATE - INFO - Iniciando la descarga del archivo de IDs y Titulos
+2023-03-08 15:39:30,332 - MATOMO_SRND_UPDATE - INFO - Descarga completa.
+2023-03-08 15:39:30,332 - MATOMO_SRND_UPDATE - INFO - Se detectó un proceso sin terminar....
+2023-03-08 15:39:30,341 - MATOMO_SRND_UPDATE - INFO - Conectado con la base eventos.
+2023-03-08 15:39:30,341 - MATOMO_SRND_UPDATE - INFO - Ya se cargaron los IDS a procesar
+2023-03-08 15:39:30,391 - MATOMO_SRND_UPDATE - INFO - Dia a procesar 2023-01-04 00:00:00
+2023-03-08 15:45:06,509 - MATOMO_SRND_UPDATE - INFO - iniciando proceso de actualizacion del motomo srnd
+2023-03-08 15:45:06,570 - MATOMO_SRND_UPDATE - INFO - Iniciando la descarga del archivo de IDs y Titulos
+2023-03-08 15:45:06,571 - MATOMO_SRND_UPDATE - INFO - Descarga completa.
+2023-03-08 15:45:06,571 - MATOMO_SRND_UPDATE - INFO - Se detectó un proceso sin terminar....
+2023-03-08 15:45:06,580 - MATOMO_SRND_UPDATE - INFO - Conectado con la base eventos.
+2023-03-08 15:45:06,581 - MATOMO_SRND_UPDATE - INFO - Ya se cargaron los IDS a procesar
+2023-03-08 15:45:06,628 - MATOMO_SRND_UPDATE - INFO - Dia a procesar 2023-01-04 00:00:00
+2023-03-08 15:48:57,093 - MATOMO_SRND_UPDATE - INFO - iniciando proceso de actualizacion del motomo srnd
+2023-03-08 15:48:57,162 - MATOMO_SRND_UPDATE - INFO - Iniciando la descarga del archivo de IDs y Titulos
+2023-03-08 15:48:57,163 - MATOMO_SRND_UPDATE - INFO - Descarga completa.
+2023-03-08 15:48:57,163 - MATOMO_SRND_UPDATE - INFO - Se detectó un proceso sin terminar....
+2023-03-08 15:48:57,176 - MATOMO_SRND_UPDATE - INFO - Conectado con la base eventos.
+2023-03-08 15:48:57,176 - MATOMO_SRND_UPDATE - INFO - Ya se cargaron los IDS a procesar
+2023-03-08 15:48:57,243 - MATOMO_SRND_UPDATE - INFO - Dia a procesar 2023-01-04 00:00:00
+2023-03-08 15:49:35,254 - MATOMO_SRND_UPDATE - INFO - LaReferencia responde: success
+2023-03-08 15:49:35,255 - MATOMO_SRND_UPDATE - INFO - 10 events sent to tracker
+2023-03-08 15:49:35,255 - MATOMO_SRND_UPDATE - INFO - Local time for last sent event: 2023-01-04 06:31:38
+2023-03-08 15:49:35,255 - MATOMO_SRND_UPDATE - INFO - ::FIN DEL PROCESO:: registros:10
+2023-03-09 14:42:42,683 - MATOMO_SRND_UPDATE - INFO - iniciando proceso de actualizacion del motomo srnd
+2023-03-09 14:42:42,782 - MATOMO_SRND_UPDATE - INFO - Iniciando la descarga del archivo de IDs y Titulos
+2023-03-09 14:42:42,782 - MATOMO_SRND_UPDATE - INFO - Descarga completa.
+2023-03-09 14:42:42,909 - MATOMO_SRND_UPDATE - INFO - Conectado con la base eventos.
+2023-03-09 14:42:42,909 - MATOMO_SRND_UPDATE - INFO - Ya se cargaron los IDS a procesar
+2023-03-09 14:42:42,974 - MATOMO_SRND_UPDATE - INFO - Dia a procesar 2023-01-04 06:31:38
+2023-03-09 14:46:13,395 - MATOMO_SRND_UPDATE - INFO - iniciando proceso de actualizacion del motomo srnd
+2023-03-09 14:46:13,472 - MATOMO_SRND_UPDATE - INFO - Iniciando la descarga del archivo de IDs y Titulos
+2023-03-09 14:46:13,472 - MATOMO_SRND_UPDATE - INFO - Descarga completa.
+2023-03-09 14:46:13,483 - MATOMO_SRND_UPDATE - INFO - Conectado con la base eventos.
+2023-03-09 14:46:13,484 - MATOMO_SRND_UPDATE - INFO - Ya se cargaron los IDS a procesar
+2023-03-09 14:46:13,542 - MATOMO_SRND_UPDATE - INFO - Dia a procesar 2023-01-04 06:31:38
