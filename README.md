@@ -2,6 +2,10 @@
 
 Greenstone platform usage stats sender.
 
+## Diagrama
+
+![image](https://user-images.githubusercontent.com/657836/225767592-030f3fd7-66ec-4b22-8afa-7b4ffc6daae4.png)
+
 ## Uso
 
 1. El proceso se inicia con `python main.py`, pero el trabajo se ejecuta mayormente en nuevoProceso.py
